@@ -1,4 +1,21 @@
 body{
+    margin: 0;
+    display:flex;
     font-family: Comic Sans MS;
     font-size: 2em;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    overflow: hidden;
+}
+.calculator-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 320px;
+    padding: 20px;
 }
