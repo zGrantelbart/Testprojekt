@@ -28,7 +28,7 @@ Der Rechner unterstützt die grundlegenden mathematischen Operationen sowie eini
 
 ## Meme-Funktionen (Easter Eggs)
 
-Klicke auf die folgenden Buttons, um lustige Inhalte in einem neuen Tab zu öffnen:
+Klicke auf die folgenden Buttons mit dem Mausrad, um lustige Inhalte in einem neuen Tab zu öffnen:
 
 - **MC:** [meme 1](https://i.programmerhumor.io/2025/03/8f21e93be90ac51858707e7895c39fd8.jpeg)
 - **MR:** [meme 2](https://i.programmerhumor.io/2025/07/09d9e11323a8f8cea2fe3811b6f0cbe2c88dea2594443f5a3a60ccb2292eb17e.jpeg)
